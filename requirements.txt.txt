@@ -1,0 +1,5 @@
+discord.py
+dalle2
+
+discord api key
+dalle2 bearer key
