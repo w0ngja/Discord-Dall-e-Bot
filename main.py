@@ -7,7 +7,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 
 client = discord.Client(intents=intents)
-dalle = Dalle2("sess-vCG7aGg6zWQumDh04n9akOiLSXYlNx2gH7Pa3X0r")
+dalle = Dalle2("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")
 
 def get_image(x):
     dalle_image_generation = dalle.generate(x)
@@ -44,4 +44,4 @@ async def on_message(message):
         \nI am a discord :robot: that can take user suggestions and create unique images using AI \nJust type the command $dalle followed by a prompt (e.g $dalle shiba inu playing chess).
         \nI look forward to seeing some of the ideas you come up with :art:.""")  
 
-client.run('MTAwNjg0MzA1NjA1OTg1ODk1Ng.GWCsI-.Pl3dcjHO6q-etIXDCddzX6udO4OsipRqS2-0Rc')
+client.run('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx')        
