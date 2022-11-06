@@ -10,5 +10,5 @@ To generate an image use the $dalle command followed by an image suggestion:
 
 Thanks and have fun!
 
-  v1.01: Added exception clauses for dalle image generation rules
-  v1.0: Initial Release
+v1.01: Added exception clauses for dalle image generation rules
+v1.0: Initial Release
