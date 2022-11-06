@@ -9,3 +9,6 @@ To generate an image use the $dalle command followed by an image suggestion:
 ![alt-text](https://github.com/w0ngja/Discord-Dalle-Bot/blob/main/readme_misc/readme_dalle_command.PNG)
 
 Thanks and have fun!
+
+v1.01: Added exception clauses for dalle image generation rules
+v1.0: Initial Release
