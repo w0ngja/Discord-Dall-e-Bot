@@ -10,7 +10,7 @@ To generate an image use the $dalle command followed by an image suggestion:
 
 Thanks and have fun!
 
-#How to get API keys
+##How to get API keys
 
 v1.01: Added exception clauses for dalle image generation rules\
 v1.0: Initial Release
